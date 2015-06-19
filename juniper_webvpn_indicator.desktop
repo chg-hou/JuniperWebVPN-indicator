@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Categories=Application;Network;
+Type=Application
+Exec=/usr/local/indicator-juniper-webvpn/vpn_indicator.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=false
+Name=Juniper webVPN indicator
+Comment=Juniper webVPN indicator
+Icon=/usr/local/indicator-juniper-webvpn/connected_icon.png
